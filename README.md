@@ -1,6 +1,7 @@
-# wonsikpf
-Ver 0.1 (2021-05-31)
-My first project upload
+# 버전 관리
+2021-05-31 Ver 0.1
+-> 게시물 등록,조회,수정,삭제 / 페이징 / 검색 / 댓글
+
 
 ## 개발 환경
 - 언어 : JAVA, HTML, CSS, JAVASCRIPT
